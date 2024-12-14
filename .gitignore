@@ -1,5 +1,4 @@
 .prettierrc
-img
 dist 
 .parcel-cache
 node_modules
